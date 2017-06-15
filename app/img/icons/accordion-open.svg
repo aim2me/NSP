@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="practice-part-page" transform="translate(-1146.000000, -628.000000)" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(1147.000000, 629.000000)">
+                <path d="M7.5,15 C11.6421356,15 15,11.6421356 15,7.5 C15,3.35786438 11.6421356,0 7.5,0 C3.35786438,0 0,3.35786438 0,7.5 C0,11.6421356 3.35786438,15 7.5,15 Z" id="Oval" stroke="#E2E2E2"></path>
+                <polygon id="Triangle" stroke="#979797" transform="translate(7.439024, 8.292683) scale(1, -1) translate(-7.439024, -8.292683) " points="7.43902439 6.58536585 10.3658537 10 4.51219512 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

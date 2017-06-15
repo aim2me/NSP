@@ -1,0 +1,23 @@
+//хэдер для узкого экрана
+
+.narrow-header
+  width: 100%
+  display: none
+  color: $medium-gray
+  padding: 10px
+  position: fixed
+  background: $white
+  font-size: 0
+
+  @media screen and (max-width: 1008px)
+    display: block
+
+  &__item
+    display: inline-block
+
+.menu-button
+  width: 50px
+  font-size: 18px
+
+  &:hover
+    cursor: pointer

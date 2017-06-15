@@ -1,0 +1,14 @@
+.breadcrumbs
+  font-size: 14px
+  text-transform: uppercase
+  margin-left: 30%
+
+  &__item
+    display: inline
+
+  &__item + &__item:before
+    content: "/\00a0"
+    padding: 5px
+
+  &__link
+    font-family: 'BanderaPro-Bold', Helvetica, sans-serif

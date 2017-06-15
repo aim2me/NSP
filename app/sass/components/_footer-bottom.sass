@@ -1,0 +1,35 @@
+// нижняя часть футера
+
+.bottom-info
+  background: $violet
+  font-size: 14px
+  color: $white
+  font-family: 'ProximaNova-Medium', Helvetica, sans-serif
+  padding: 10px 0
+
+  &__item
+    display: inline-block
+    padding: 0 10px
+    line-height: 1.3em
+
+    @media screen and (max-width: 735px)
+      width: 100%
+      display: block
+      text-align: center
+
+.logo-txt
+  width: calc(42% - 20px)
+
+  @media screen and (max-width: 735px)
+    width: 100%
+    display: block
+    text-align: center
+
+.made-by
+  width: calc(30% - 20px)
+  text-align: right
+
+  @media screen and (max-width: 735px)
+    width: 100%
+    display: block
+    text-align: center
